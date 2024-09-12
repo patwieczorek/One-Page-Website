@@ -29,7 +29,7 @@
 Your arrangements will be freshly delivered to your desired location, and our expert
 team will ensure that these are set-up perfectly for a memorable experience. </p>
 </details>
-<iframe src="https://youtu.be/5-LNxlXb6lw" width="100%" height="300%" style="border:1px solid black;" alt="your browser doesn't support this video">
+<iframe href="https://youtu.be/5-LNxlXb6lw" width="100%" height="300%" style="border:1px solid black;" alt="your browser doesn't support this video">
 </iframe>
 </div>
 </div>
@@ -47,7 +47,7 @@ team will ensure that these are set-up perfectly for a memorable experience. </p
 <!-- PHOTO-CONTAINER 1 -->
 <div class="photo-container">
 <div class="photo">
-<img src="C:\Users\patty\Desktop\Website project\images\Thumb\Thumb_1.jpg" alt="orange set">
+<img src="\images\Thumb_1.jpg" alt="orange set">
 <div class="photo-overlay">
 <h3 class="white-head">>Click to Enlarge</h3>
 <p><em>We have several floral arrangements available for any ocassion, book yours today!</em></p>
@@ -59,7 +59,7 @@ team will ensure that these are set-up perfectly for a memorable experience. </p
 <!-- PHOTO-CONTAINER 2 -->
 <div class="photo-container">
 <div class="photo">
-<img src="C:\Users\patty\Desktop\Website project\images\Thumb\Thumb_2.jpg" alt="purple set">
+<img src="\images\Thumb_2.jpg" alt="purple set">
 <div class="photo-overlay">
 <h3 class="white-head">>Click to Enlarge</h3>
 <p><em>We have several floral arrangements available for any ocassion, book yours today!</em></p>
@@ -71,7 +71,7 @@ team will ensure that these are set-up perfectly for a memorable experience. </p
 <!-- PHOTO-CONTAINER 3 -->
 <div class="photo-container">
 <div class="photo">
-<img src="C:\Users\patty\Desktop\Website project\images\Thumb\Thumb_3.jpg" alt="orange & green set">
+<img src="\images\Thumb_3.jpg" alt="orange & green set">
 <div class="photo-overlay">
 <h3 class="white-head">>Click to Enlarge</h3>
 <p><em>We have several floral arrangements available for any ocassion, book yours today!</em></p>
@@ -83,7 +83,7 @@ team will ensure that these are set-up perfectly for a memorable experience. </p
 <!-- PHOTO-CONTAINER 4 -->
 <div class="photo-container">
 <div class="photo">
-<img src="C:\Users\patty\Desktop\Website project\images\Thumb\Thumb_4.jpg" alt="pink rose set">
+<img src="\images\Thumb_4.jpg" alt="pink rose set">
 <div class="photo-overlay">
 <h3 class="white-head">>Click to Enlarge</h3>
 <p><em>We have several floral arrangements available for any ocassion, book yours today!</em></p>
@@ -95,7 +95,7 @@ team will ensure that these are set-up perfectly for a memorable experience. </p
 <!-- PHOTO-CONTAINER 5 -->
 <div class="photo-container">
 <div class="photo">
-<img src="C:\Users\patty\Desktop\Website project\images\Thumb\Thumb_5.jpg" alt="pink peonies set">
+<img src="\images\Thumb_5.jpg" alt="pink peonies set">
 <div class="photo-overlay">
 <h3 class="white-head">>Click to Enlarge</h3>
 <p><em>We have several floral arrangements available for any ocassion, book yours today!</em></p>
@@ -107,7 +107,7 @@ team will ensure that these are set-up perfectly for a memorable experience. </p
 <!-- PHOTO-CONTAINER 6 -->
 <div class="photo-container">
 <div class="photo">
-<img src="C:\Users\patty\Desktop\Website project\images\Thumb\Thumb_6.jpg" alt="baby pink mix">
+<img src="\images\Thumb_6.jpg" alt="baby pink mix">
 <div class="photo-overlay">
 <h3 class="white-head">>Click to Enlarge</h3>
 <p><em>We have several floral arrangements available for any ocassion, book yours today!</em></p>
@@ -119,7 +119,7 @@ team will ensure that these are set-up perfectly for a memorable experience. </p
 <!-- PHOTO-CONTAINER 7 -->
 <div class="photo-container">
 <div class="photo">
-<img src="C:\Users\patty\Desktop\Website project\images\Thumb\Thumb_7.jpg" alt="peach set">
+<img src="\images\Thumb_7.jpg" alt="peach set">
 <div class="photo-overlay">
 <h3 class="white-head">>Click to Enlarge</h3>
 <p><em>We have several floral arrangements available for any ocassion, book yours today!</em></p>
@@ -131,7 +131,7 @@ team will ensure that these are set-up perfectly for a memorable experience. </p
 <!-- PHOTO-CONTAINER 8 -->
 <div class="photo-container">
 <div class="photo">
-<img src="C:\Users\patty\Desktop\Website project\images\Thumb\Thumb_8.jpg" alt="pastel mix">
+<img src="\images\Thumb_8.jpg" alt="pastel mix">
 <div class="photo-overlay">
 <h3 class="white-head">>Click to Enlarge</h3>
 <p><em>We have several floral arrangements available for any ocassion, book yours today!</em></p>
@@ -143,7 +143,7 @@ team will ensure that these are set-up perfectly for a memorable experience. </p
 <!-- PHOTO-CONTAINER 9 -->
 <div class="photo-container">
 <div class="photo">
-<img src="C:\Users\patty\Desktop\Website project\images\Thumb\Thumb_9.jpg" alt="countryside mix">
+<img src="\images\Thumb_9.jpg" alt="countryside mix">
 <div class="photo-overlay">
 <h3 class="white-head">>Click to Enlarge</h3>
 <p><em>We have several floral arrangements available for any ocassion, book yours today!</em></p>
